@@ -1,25 +1,30 @@
 **Toronto Airbnb Dataset Analysis**
 
 **Medium Blog Post**
+
 Here is the Medium blog post I have written: 
 
 **Libraries Used:**
+
 I use Python3 in my Jupyter Notebook:
 
-• Numpy 
-• Pandas 
-• Scikit Learn 
-• Matplotlib 
-• Seaborn
-• Folium
-• Collections
-• Math
+1. Numpy 
+2. Pandas 
+3. Scikit Learn 
+4. Matplotlib 
+5. Seaborn
+6. Folium
+7. Collections
+8. Math
+
 
 **The Motivation for the Project**
+
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program.
 I used Toronto Airbnb Dataset for this project as its the city I live in. I'm interested in using data science techniques to analyze ways to improve future listings.
 The questions that will be analyze are may be similar to data sources one might see in a business setting.
 Additionally, many of the approaches I used in this project can be applicable to my present and future work projects. 
+
 
 Using the data, I answered the following questions:
 
@@ -29,6 +34,7 @@ Using the data, I answered the following questions:
 4. What are the most influential features of the dataset to predict the price of a listing?
 
 The dataset describes the listing activities. The original dataset can be found here: https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
+
 
 **File Descriptions**
 
