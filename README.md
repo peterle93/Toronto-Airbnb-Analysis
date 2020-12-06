@@ -1,23 +1,5 @@
 **Toronto Airbnb Dataset Analysis**
 
-**Medium Blog Post**
-
-Here is the Medium blog post I have written: https://le-peter1993.medium.com/data-exploration-for-toronto-airbnb-56b5387d7007
-
-**Libraries Used:**
-
-I use Python3 in my Jupyter Notebook:
-
-1. Numpy 
-2. Pandas 
-3. Scikit Learn 
-4. Matplotlib 
-5. Seaborn
-6. Folium
-7. Collections
-8. Math
-
-
 **The Motivation for the Project**
 
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program.
@@ -35,6 +17,22 @@ Using the data, I answered the following questions:
 
 The dataset describes the listing activities. The original dataset can be found here: https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
 
+**Medium Blog Post**
+
+Here is the Medium blog post I have written: https://le-peter1993.medium.com/data-exploration-for-toronto-airbnb-56b5387d7007
+
+**Libraries Used:**
+
+I use Python3 in my Jupyter Notebook:
+
+1. Numpy 
+2. Pandas 
+3. Scikit Learn 
+4. Matplotlib 
+5. Seaborn
+6. Folium
+7. Collections
+8. Math
 
 **File Descriptions**
 
