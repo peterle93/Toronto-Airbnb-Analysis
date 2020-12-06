@@ -38,8 +38,8 @@ The dataset describes the listing activities. The original dataset can be found 
 
 **File Descriptions**
 
-• Toronto Airbnb Dataset.ipynb - Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
-• listings_sep_09_2020.csv - Original Toronto Airbnb Dataset from Sept 2020 in csv format 
+1. Toronto Airbnb Dataset.ipynb - Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
+2. listings_sep_09_2020.csv - Original Toronto Airbnb Dataset from Sept 2020 in csv format 
 
 
 
