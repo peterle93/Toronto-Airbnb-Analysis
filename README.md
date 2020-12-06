@@ -39,5 +39,9 @@ I use Python3 in my Jupyter Notebook:
 1. Toronto Airbnb Dataset.ipynb - Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 2. listings_sep_09_2020.csv - Original Toronto Airbnb Dataset from Sept 2020 in csv format 
 
+**Acknowledgements**
+1. https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
+2. https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+3. https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711
 
 
