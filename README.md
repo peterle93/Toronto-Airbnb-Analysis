@@ -1,9 +1,9 @@
-Toronto Airbnb Dataset Analysis
+**Toronto Airbnb Dataset Analysis**
 
-Medium Blog Post
+**Medium Blog Post**
 Here is the Medium blog post I have written: 
 
-Libraries Used:
+**Libraries Used:**
 I use Python3 in my Jupyter Notebook:
 
 • Numpy 
@@ -15,7 +15,7 @@ I use Python3 in my Jupyter Notebook:
 • Collections
 • Math
 
-The Motivation for the Project
+**The Motivation for the Project**
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program.
 I used Toronto Airbnb Dataset for this project as its the city I live in. I'm interested in using data science techniques to analyze ways to improve future listings.
 The questions that will be analyze are may be similar to data sources one might see in a business setting.
@@ -27,10 +27,10 @@ Using the data, I answered the following questions:
 2. Which neighborhoods have the highest number of listings and rating review scores?
 3. What is the relationship between the type of room and price listing?
 4. What are the most influential features of the dataset to predict the price of a listing?
-I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, 
-the dataset describes the listing activities of homestays in Seattle, WA. The orijinal dataset can be found here: https://www.kaggle.com/airbnb/seattle
 
-File Descriptions
+The dataset describes the listing activities. The original dataset can be found here: https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
+
+**File Descriptions**
 
 • Toronto Airbnb Dataset.ipynb - Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 • listings_sep_09_2020.csv - Original Toronto Airbnb Dataset from Sept 2020 in csv format 
