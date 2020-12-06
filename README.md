@@ -22,8 +22,8 @@ I use Python3 in my Jupyter Notebook:
 
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program.
 I used Toronto Airbnb Dataset for this project as its the city I live in. I'm interested in using data science techniques to analyze ways to improve future listings.
-The questions that will be analyze are may be similar to data sources one might see in a business setting.
-Additionally, many of the approaches I used in this project can be applicable to my present and future work projects. 
+The questions that will be analyzed may be similar to data sources one might encounter in a business setting.
+Additionally, many of the approaches and skills I used in this project can be applicable to future work projects. 
 
 
 Using the data, I answered the following questions:
