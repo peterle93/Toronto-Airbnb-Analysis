@@ -2,7 +2,7 @@
 
 **Medium Blog Post**
 
-Here is the Medium blog post I have written: 
+Here is the Medium blog post I have written: https://le-peter1993.medium.com/data-exploration-for-toronto-airbnb-56b5387d7007
 
 **Libraries Used:**
 
