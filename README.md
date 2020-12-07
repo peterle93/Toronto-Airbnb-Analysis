@@ -11,21 +11,27 @@ Additionally, many of the approaches and skills used in this project can be appl
 Using the data, I answered the following questions:
 
 1. What are the most common amenities in the dataset?
-- Most common amenities in Toronto listings are:
+2. Which neighborhoods have the highest number of listings and rating review scores?
+3. What is the relationship between the type of room and price listing?
+4. What are the most influential features of the dataset to predict the price of a listing?
+
+The dataset describes the listing activities. The original dataset can be found here: https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
+
+**Summary of Results**
+
+Determined the most common amenities in Toronto listings are:
 - Wifi
 - Heating
 - Smoke Alarm
 - Essentials
 - Kitchen
-2. Which neighborhoods have the highest number of listings and rating review scores?
+
 - Waterfront Communities-The Island has the most listings, followed by Niagara, and then Annex.
 - Forest Hill South, Ionview, and High Park-Swansea have the highest review score ratings.
-3. What is the relationship between the type of room and price listing?
-- Entire home/apt has the highest median price compared to the other room type listing. Shared room is at the lowest median.
-4. What are the most influential features of the dataset to predict the price of a listing?
-- The features that has the most influence on the price listing are bedrooms, followed by Entire home/apt, then accommodates.
 
-The dataset describes the listing activities. The original dataset can be found here: https://www.kaggle.com/robinkongninglo/toronto-airbnb-dataset
+- Entire home/apt has the highest median price compared to the other room type listing. Shared room is at the lowest median.
+
+- The features that has the most influence on the price listing are bedrooms, followed by Entire home/apt, then accommodates.
 
 **Medium Blog Post**
 
