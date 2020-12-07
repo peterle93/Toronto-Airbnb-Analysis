@@ -20,12 +20,11 @@ The dataset describes the listing activities. The original dataset can be found 
 **Summary of Results**
 
 Determined the most common amenities in Toronto listings are:
-- Wifi
-- Heating
-- Smoke Alarm
-- Essentials
-- Kitchen
-
+1. Wifi
+2. Heating
+3. Smoke Alarm
+4. Essentials
+5. Kitchen
 - Waterfront Communities-The Island has the most listings, followed by Niagara, and then Annex.
 - Forest Hill South, Ionview, and High Park-Swansea have the highest review score ratings.
 
