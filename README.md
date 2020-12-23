@@ -1,8 +1,8 @@
 ## Table of Contents
 1. [Project Motivation](#motivation)
 2. [Summary of Results](#results)
-3. [Instructions](#instructions)
-4. [Medium Blog Post](#medium)
+3. [Medium Blog Post](#medium)
+4. [Libraries](#libraries)
 5. [File Descriptions](#descriptions)
 6. [Acknowledgements](#acknowledgements)
 
@@ -31,7 +31,9 @@ Determined the most common amenities in Toronto listings are:
 3. Smoke Alarm
 4. Essentials
 5. Kitchen
+
 - Waterfront Communities-The Island has the most listings, followed by Niagara, and then Annex.
+
 - Forest Hill South, Ionview, and High Park-Swansea have the highest review score ratings.
 
 - Entire home/apt has the highest median price compared to the other room type listing. Shared room is at the lowest median.
