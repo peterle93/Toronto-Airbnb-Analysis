@@ -32,7 +32,7 @@ Determined the most common amenities in Toronto listings are:
 4. Essentials
 5. Kitchen
 
-- Waterfront Communities-The Island has the most listings, followed by Niagara, and then Annex.
+- Waterfront Communities - The Island has the most listings, followed by Niagara, and then Annex.
 
 - Forest Hill South, Ionview, and High Park-Swansea have the highest review score ratings.
 
